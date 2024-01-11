@@ -1,4 +1,4 @@
-<h1>We Care About Your Pet</h1>
+<h1>Coverage</h1>
 <br>
 <p>Esse Projeto foi desenvolvido no curso <a href="https://rodolfomori.com.br/devclub">DevClub</a> com a finalidade de testar o conhecimento aprendido no módulo, ele é responsivo e utiliza as seguintes tecnologias:</p>
 
