@@ -6,7 +6,7 @@
 <p><a href="https://github.com/WilsonCamini17/Coverage-Responsive/blob/main/style.css"> - CSS </p></a>
 
 <h2>Shopping</h2>
-<img src="" alt="imageproject"/>
+<img src="https://github.com/WilsonCamini17/Coverage-Responsive/blob/main/assets/Desktop%20Wide.png" alt="imageproject"/>
 
 <h2>Mobile Mode</h2>
 <img src="" alt="imageproject"/>
