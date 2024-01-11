@@ -9,4 +9,4 @@
 <img src="https://github.com/WilsonCamini17/Coverage-Responsive/blob/main/assets/Desktop%20Wide.png" alt="imageproject"/>
 
 <h2>Mobile Mode</h2>
-<img src="" alt="imageproject"/>
+<img src="https://github.com/WilsonCamini17/Coverage-Responsive/blob/main/assets/Mobile%20Wide.png" alt="imageproject"/>
