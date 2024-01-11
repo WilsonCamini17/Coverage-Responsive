@@ -44,7 +44,8 @@ button:active {
 }
 
 img {
-    margin: 163px 84px 0px 121px;
+    margin: 163px 84px 0px 110px;
+    width: 400px;
 }
 
 h1 {
